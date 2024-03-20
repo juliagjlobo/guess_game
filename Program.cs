@@ -38,7 +38,7 @@ class Program
         } while (!isNumber);
 
         // Loop de resultados
-        while (total < 100)
+        while (total <= 100)
         {
             if (guess == total)
             {
@@ -47,7 +47,7 @@ class Program
                 //Encerra o programa
                 Console.WriteLine("Pressione ENTER para encerrar o programa.");
                 Console.ReadLine();
-                Environment.Exit(0);
+                return;
             }
             // Tente Novamente
             Console.WriteLine($"Hahahahah! Errou! O número sorteado foi: {target}");
@@ -71,6 +71,6 @@ class Program
         //Encerra o programa
         Console.WriteLine("Pressione ENTER para encerrar o programa.");
         Console.ReadLine();
-        Environment.Exit(0);
+        return;
     }
 }
