@@ -1,5 +1,5 @@
 Funções necessárias para que o jogo funcione:
-1 - Realize o download do repositótio;
+1 - Realize o download do repositório;
 2 - Carregue o repositório através do Visual Studio;
 3 - Inicie o código clicando em "Iniciar".
 
