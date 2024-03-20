@@ -1,7 +1,7 @@
 Funções necessárias para que o jogo funcione:
 1 - Realize o download do repositório;
 2 - Carregue o repositório através do Visual Studio;
-3 - Inicie o código clicando em "Iniciar".
+3 - Inicie Program.cs clicando em "Iniciar".
 
 Conjunto de atividades para criar o jogo
 1 - Receber o jogador;
